@@ -102,7 +102,7 @@ def render(github_username, github_data, zhihu_username='') -> str:
 def writer(markdown) -> bool:
     ok = True
     try:
-        with open('./README.md', 'w') as f:
+        with open('profile/README.md', 'w') as f:
             f.write(markdown)
     except IOError:
         ok = False
@@ -111,8 +111,8 @@ def writer(markdown) -> bool:
 
 
 def pusher():
-    commit_message = ":pencil2: update on {}".format(current_time)
-    os.system('git add ./README.md')
+    commit_message = ":book: update on {}".format(current_time)
+    os.system('git add ./profile/README.md')
     if os.getenv('DEBUG'):
         return
     os.system('git commit -m "{}"'.format(commit_message))
