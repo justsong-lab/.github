@@ -56,10 +56,7 @@ def fetcher(username: str):
 
 
 abstract_tpl = """## Abstract
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&hide_border=true" alt="{github_name}'s Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&hide_border=true&langs_count=10" alt="{github_name}'s Top Langs" width="37%" /> 
-</p>
+> Created by [JustSong](https://github.com/songquanpeng).
 """
 
 zhihu_tpl = "[![{github_name}'s Zhihu Stats](https://stats.justsong.cn/api/zhihu?username={zhihu_username})](https://github.com/songquanpeng/readme-stats)\n"
@@ -124,7 +121,7 @@ def main():
     global recent_repo_num
     top_repo_num = 10
     recent_repo_num = 10
-    github_username = os.getenv('GITHUB_USERNAME')
+    github_username = "justsong-lab"
     if not github_username:
         cwd = os.getcwd()
         github_username = os.path.split(cwd)[-1]
