@@ -73,7 +73,7 @@ top_repos_tpl = """\n## Top Repos
 
 footer_tpl = """
 \n
-*[Last Automatic Update: {}](https://github.com/songquanpeng/songquanpeng/blob/master/help.md)*
+*[Last Automatic Update: {}](https://github.com/justsong-lab/.github)*
 """.format(current_time)
 
 
