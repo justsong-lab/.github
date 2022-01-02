@@ -4,8 +4,8 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[zhihu-archiver](https://github.com/justsong-lab/zhihu-archiver)|https://github.com/songquanpeng/zhihu-archiver|`2021-12-26 18:00:08`|
-|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2021-12-19 20:10:56`|
+|[zhihu-archiver](https://github.com/justsong-lab/zhihu-archiver)|https://github.com/songquanpeng/zhihu-archiver|`2022-01-02 18:00:08`|
+|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2021-12-26 20:10:59`|
 |[SCGAN](https://github.com/justsong-lab/SCGAN)|None|`2021-12-16 15:45:48`|
 |[SPADE](https://github.com/justsong-lab/SPADE)|Semantic Image Synthesis with SPADE|`2021-12-15 15:55:25`|
 |[ProjectEye](https://github.com/justsong-lab/ProjectEye)|😎 一个基于20-20-20规则的用眼休息提醒Windows软件|`2021-12-11 11:09:28`|
@@ -31,4 +31,4 @@
 
 
 
-*[Last Automatic Update: 2021-12-26 20:10:58](https://github.com/justsong-lab/.github)*
+*[Last Automatic Update: 2022-01-02 20:11:00](https://github.com/justsong-lab/.github)*
