@@ -4,10 +4,10 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[zhihu-archiver](https://github.com/justsong-lab/zhihu-archiver)|https://github.com/songquanpeng/zhihu-archiver|`2022-01-30 18:00:08`|
+|[zhihu-archiver](https://github.com/justsong-lab/zhihu-archiver)|https://github.com/songquanpeng/zhihu-archiver|`2022-02-06 18:00:08`|
+|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-01-30 20:09:43`|
 |[interfacegan](https://github.com/justsong-lab/interfacegan)|[CVPR 2020] Interpreting the Latent Space of GANs for Semantic Face Editing|`2022-01-25 18:19:53`|
 |[Latent2im](https://github.com/justsong-lab/Latent2im)|ICLR'21 paper ``Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation"|`2022-01-25 18:19:46`|
-|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-01-23 20:10:46`|
 |[StyleFlow](https://github.com/justsong-lab/StyleFlow)|StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using  Conditional Continuous Normalizing Flows (ACM TOG 2021)|`2022-01-22 04:38:05`|
 |[stylegan2-ada-pytorch](https://github.com/justsong-lab/stylegan2-ada-pytorch)|StyleGAN2-ADA - Official PyTorch implementation|`2022-01-12 12:10:47`|
 |[nonsense.fun](https://github.com/justsong-lab/nonsense.fun)|废话胶囊，你说话的地方 #保卫表达#|`2022-01-08 19:56:51`|
@@ -31,4 +31,4 @@
 
 
 
-*[Last Automatic Update: 2022-01-30 20:09:41](https://github.com/justsong-lab/.github)*
+*[Last Automatic Update: 2022-02-06 20:09:46](https://github.com/justsong-lab/.github)*
