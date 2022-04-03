@@ -4,16 +4,16 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-03-20 20:12:01`|
+|[killed-by-microsoft](https://github.com/justsong-lab/killed-by-microsoft)|Part guillotine, part graveyard for Microsoft's doomed apps, services, and hardware.|`2022-03-28 10:45:43`|
+|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-03-27 20:12:13`|
 |[zhihu-archiver](https://github.com/justsong-lab/zhihu-archiver)|https://github.com/songquanpeng/zhihu-archiver|`2022-02-23 18:00:08`|
 |[chinese-programmer-wrong-pronunciation](https://github.com/justsong-lab/chinese-programmer-wrong-pronunciation)|中国程序员容易发音错误的单词|`2022-02-16 22:19:36`|
 |[comments](https://github.com/justsong-lab/comments)|None|`2022-02-10 16:00:21`|
-|[interfacegan](https://github.com/justsong-lab/interfacegan)|[CVPR 2020] Interpreting the Latent Space of GANs for Semantic Face Editing|`2022-01-25 18:19:53`|
-|[Latent2im](https://github.com/justsong-lab/Latent2im)|ICLR'21 paper ``Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation"|`2022-01-25 18:19:46`|
 |[StyleFlow](https://github.com/justsong-lab/StyleFlow)|StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using  Conditional Continuous Normalizing Flows (ACM TOG 2021)|`2022-01-22 04:38:05`|
 |[stylegan2-ada-pytorch](https://github.com/justsong-lab/stylegan2-ada-pytorch)|StyleGAN2-ADA - Official PyTorch implementation|`2022-01-12 12:10:47`|
 |[nonsense.fun](https://github.com/justsong-lab/nonsense.fun)|废话胶囊，你说话的地方 #保卫表达#|`2022-01-08 19:56:51`|
 |[SCGAN](https://github.com/justsong-lab/SCGAN)|None|`2021-12-16 15:45:48`|
+|[SPADE](https://github.com/justsong-lab/SPADE)|Semantic Image Synthesis with SPADE|`2021-12-15 15:55:25`|
 
 ## Top Repos
 |Repo|Description|Star|
@@ -31,4 +31,4 @@
 
 
 
-*[Last Automatic Update: 2022-03-27 20:12:11](https://github.com/justsong-lab/.github)*
+*[Last Automatic Update: 2022-04-03 20:12:41](https://github.com/justsong-lab/.github)*
