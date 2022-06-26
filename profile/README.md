@@ -4,7 +4,7 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-06-12 20:12:51`|
+|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-06-19 20:13:37`|
 |[vico-challenge](https://github.com/justsong-lab/vico-challenge)|None|`2022-05-12 23:43:42`|
 |[zhihu-archiver](https://github.com/justsong-lab/zhihu-archiver)|https://github.com/songquanpeng/zhihu-archiver|`2022-04-27 18:00:11`|
 |[vico-challenge.github.io](https://github.com/justsong-lab/vico-challenge.github.io)|None|`2022-04-12 13:28:26`|
@@ -31,4 +31,4 @@
 
 
 
-*[Last Automatic Update: 2022-06-19 20:13:35](https://github.com/justsong-lab/.github)*
+*[Last Automatic Update: 2022-06-26 20:14:02](https://github.com/justsong-lab/.github)*
