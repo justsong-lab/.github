@@ -4,7 +4,7 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-10-23 20:18:59`|
+|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-10-30 20:18:12`|
 |[scutclient](https://github.com/justsong-lab/scutclient)|SCUT network client on Linux|`2022-10-13 20:38:21`|
 |[zhihu-archiver](https://github.com/justsong-lab/zhihu-archiver)|https://github.com/songquanpeng/zhihu-archiver|`2022-10-10 10:39:52`|
 |[face-parsing](https://github.com/justsong-lab/face-parsing)|Model for Face Parsing|`2022-09-08 16:50:23`|
@@ -31,4 +31,4 @@
 
 
 
-*[Last Automatic Update: 2022-10-30 20:18:11](https://github.com/justsong-lab/.github)*
+*[Last Automatic Update: 2022-11-06 20:16:07](https://github.com/justsong-lab/.github)*
