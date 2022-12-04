@@ -4,7 +4,7 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-11-20 20:14:25`|
+|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2022-11-27 20:13:42`|
 |[netease-recent-profile](https://github.com/justsong-lab/netease-recent-profile)|🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片|`2022-11-16 10:11:11`|
 |[message-pusher](https://github.com/justsong-lab/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器|`2022-11-11 22:32:27`|
 |[scutclient](https://github.com/justsong-lab/scutclient)|SCUT network client on Linux|`2022-10-13 20:38:21`|
@@ -31,4 +31,4 @@
 
 
 
-*[Last Automatic Update: 2022-11-27 20:13:40](https://github.com/justsong-lab/.github)*
+*[Last Automatic Update: 2022-12-04 20:14:03](https://github.com/justsong-lab/.github)*
