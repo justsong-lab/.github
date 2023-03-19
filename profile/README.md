@@ -4,8 +4,9 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
+|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2023-03-12 20:13:10`|
 |[xml2xlsx](https://github.com/justsong-lab/xml2xlsx)|XML 文件转 Excel 文件|`2023-03-07 13:28:29`|
-|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2023-03-05 20:13:42`|
+|[fuck-spam](https://github.com/justsong-lab/fuck-spam)|None|`2023-02-06 22:01:33`|
 |[xv6-riscv](https://github.com/justsong-lab/xv6-riscv)|Xv6 for RISC-V|`2023-01-25 15:27:08`|
 |[home](https://github.com/justsong-lab/home)|我的个人主页，个人主页源码，主页模板，homepage|`2023-01-08 18:02:25`|
 |[Real-ESRGAN](https://github.com/justsong-lab/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|`2022-12-22 16:23:35`|
@@ -13,7 +14,6 @@
 |[jojo-live](https://github.com/justsong-lab/jojo-live)|利用旧手机远程观测鹦鹉, 甚至与它交互~|`2022-12-08 17:10:35`|
 |[netease-recent-profile](https://github.com/justsong-lab/netease-recent-profile)|🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片|`2022-11-16 10:11:11`|
 |[message-pusher](https://github.com/justsong-lab/message-pusher)|搭建专属于你的微信消息推送服务，支持 Markdown，支持发送邮件消息，可以选择部署在 Heroku 上，无需自己的服务器|`2022-11-11 22:32:27`|
-|[scutclient](https://github.com/justsong-lab/scutclient)|SCUT network client on Linux|`2022-10-13 20:38:21`|
 
 ## Top Repos
 |Repo|Description|Star|
@@ -31,4 +31,4 @@
 
 
 
-*[Last Automatic Update: 2023-03-12 20:13:08](https://github.com/justsong-lab/.github)*
+*[Last Automatic Update: 2023-03-19 20:13:17](https://github.com/justsong-lab/.github)*
