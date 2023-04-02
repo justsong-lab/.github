@@ -4,7 +4,7 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2023-03-19 20:13:19`|
+|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2023-03-26 20:12:38`|
 |[xml2xlsx](https://github.com/justsong-lab/xml2xlsx)|XML 文件转 Excel 文件|`2023-03-07 13:28:29`|
 |[fuck-spam](https://github.com/justsong-lab/fuck-spam)|None|`2023-02-06 22:01:33`|
 |[xv6-riscv](https://github.com/justsong-lab/xv6-riscv)|Xv6 for RISC-V|`2023-01-25 15:27:08`|
@@ -31,4 +31,4 @@
 
 
 
-*[Last Automatic Update: 2023-03-26 20:12:36](https://github.com/justsong-lab/.github)*
+*[Last Automatic Update: 2023-04-02 20:12:17](https://github.com/justsong-lab/.github)*
