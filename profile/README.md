@@ -4,8 +4,8 @@
 ## Recent Repos
 |Repo|Description|Last Update|
 |:--|:--|:--|
-|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2023-06-04 20:12:32`|
-|[ChatGPT-Next-Web](https://github.com/justsong-lab/ChatGPT-Next-Web)|One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。|`2023-04-28 20:47:04`|
+|[ChatGPT-Next-Web](https://github.com/justsong-lab/ChatGPT-Next-Web)|One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。|`2023-06-18 09:25:19`|
+|[.github](https://github.com/justsong-lab/.github)|Automatic update your GitHub readme profile with Github Actions.|`2023-06-11 20:12:52`|
 |[chatbot-ui](https://github.com/justsong-lab/chatbot-ui)|An open source ChatGPT UI.|`2023-04-28 20:16:36`|
 |[fuck-spam](https://github.com/justsong-lab/fuck-spam)|None|`2023-04-19 21:03:38`|
 |[tiktoken-go](https://github.com/justsong-lab/tiktoken-go)|go version of tiktoken|`2023-04-19 18:49:36`|
@@ -31,4 +31,4 @@
 
 
 
-*[Last Automatic Update: 2023-06-11 20:12:50](https://github.com/justsong-lab/.github)*
+*[Last Automatic Update: 2023-06-18 20:12:50](https://github.com/justsong-lab/.github)*
